@@ -1,0 +1,8 @@
+#License config
+license:
+  enable: true
+  subject: ocr
+  publicAlias: publicCert
+  storePass: 123456q
+  licensePath: /Users/lucaju/Documents/workspace/ocr/changzhou-license/ocr.lic
+  publicKeysStorePath: /Users/lucaju/Documents/workspace/ocr/changzhou-license/publicCerts.store
