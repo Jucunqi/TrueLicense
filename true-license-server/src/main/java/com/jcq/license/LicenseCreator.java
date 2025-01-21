@@ -21,7 +21,7 @@ import java.util.prefs.Preferences;
  * <p>与此链接不同的点：</p>
  * &ensp;&ensp;&ensp;1. 生成公私钥命令，添加参数-keysize 1024 密码等命令 <br>
  *
- * <p>可以使用单元测试类 {com.changzhouwater.ocrimagerecognize.license.LicenseCreateTest#main(String[])} 来创建证书</p>
+ * <p>可以使用单元测试类 {com.jcq.license.create.LicenseCreateTest#main(String[])} 来创建证书</p>
  *
  * @author : jucunqi
  * @since  2025/1/20
